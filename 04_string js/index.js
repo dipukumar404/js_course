@@ -24,3 +24,4 @@
 // console.log(Math.max(number));
 // console.log(Math.abs(number));
 // console.log(Math.min(number));
+ console.log(Math.max(6,7));
