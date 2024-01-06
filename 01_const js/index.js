@@ -31,5 +31,5 @@
 const AccountId = 4433234323;
 let AccoutnPassword ="dipukumar@king";
 var AccountEmail = "dipukumar404@gmail.com";
-let AccoutnAddress = "Bhopla";
+let AccoutnAddress = "Bhopal";
 console.table([AccountId,AccountEmail,AccoutnPassword,AccoutnAddress]);
